@@ -4,12 +4,13 @@
 UCL AI Society and Holistic AI Hackathon 2024
 </h1>
 
-
 Website: [Holistic AI UCL Hackathon](https://hackathon.holisticai.com/)
+
+This repo have the code for the UCL AI Society and Holistic AI Hackathon 2024. 
 
 ### (Track 1) Multi-Objective Optimization for AI Trustworthiness in Tabular Data Classification
 
-This repo have the code for the UCL AI Society and Holistic AI Hackathon 2024. The goal of this project is to develop a multi-objective optimization algorithm to improve the trustworthiness of AI models in tabular data classification tasks. The algorithm will optimize the model's performance and fairness simultaneously.
+The goal of this track is to develop a multi-objective optimization algorithm to improve the trustworthiness of AI models in tabular data classification tasks. The algorithm will optimize the model's performance, fairness, robustness, privacy, security, and explainbility simultaneously.
 
 #### Datasets and Tasks
 
@@ -22,10 +23,8 @@ This repo have the code for the UCL AI Society and Holistic AI Hackathon 2024. T
 
 ### (Track 2) Building Trustworthy Models for Stereotype Classification in Text Data
 
-(Track 2) Building Trustworthy Models for Stereotype Classification in Text Data
-
 This track focuses on creating ethical and trustworthy AI systems for detecting stereotypes in text data. Participants will work with the Expanded Multi-Grain Stereotype Dataset (EMGSD) to classify text as containing stereotypes, being neutral, or unrelated, while addressing key ethical considerations:
 
-Datasets and Tasks:
+#### Datasets and Tasks:
 
-- Expanded Multi-Grain Stereotype Dataset (EMGSD): Contains text annotated for stereotypes across multiple dimensions (e.g., race, gender, profession). Classify text as stereotype, neutral, or unrelated.
+Expanded Multi-Grain Stereotype Dataset (EMGSD): Contains text annotated for stereotypes across multiple dimensions (e.g., race, gender, profession). Classify text as stereotype, neutral, or unrelated.
