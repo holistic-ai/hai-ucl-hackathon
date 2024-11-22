@@ -45,23 +45,6 @@ This track focuses on creating ethical and trustworthy AI systems for detecting 
 
 ---
 
-### Repository Structure
-
-hai-ucl-hackathon/
-├── track1_multi_objective_optimization/
-│   ├── Bank_Dataset.ipynb
-│   ├── Compas_Dataset.ipynb
-│   ├── Minimum_Wage_Dataset.ipynb
-├── track2_text_stereotype_classification/
-│   ├── Main_Text_Stereotype_Detection.ipynb
-│   ├── Extra_Generate_Biased_Data.ipynb
-│   ├── Extra_Scraping_Biased_Data.ipynb
-├── .gitignore
-├── logo.png
-└── README.md
-
----
-
 ### Instructions
 
 1. Clone the repository:
