@@ -48,17 +48,26 @@ This track focuses on creating ethical and trustworthy AI systems for detecting 
 ### Instructions
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/holistic-ai/ucl-hackathon-2024.git
+```bash
+git clone https://github.com/holistic-ai/hai-ucl-hackathon.git
+```
 
-	2.	Install required dependencies (ensure Python 3.8+ is installed):
+2. cd into the repository:
+```bash
+cd hai-ucl-hackathon
+```
 
+3. Install required dependencies (ensure Python 3.10+ is installed):
+
+```bash
 pip install -r requirements.txt
+```
 
+4. Navigate to the relevant notebook and open it using Jupyter Notebook or JupyterLab:
 
-	3.	Navigate to the relevant notebook and open it using Jupyter Notebook or JupyterLab:
-
+```bash
 jupyter notebook track1_multi_objective_optimization/Bank_Dataset.ipynb
+```
 
 For more details, visit the official website: Holistic AI UCL Hackathon
 

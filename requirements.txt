@@ -1,0 +1,17 @@
+holisticai
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+jax
+transformers
+torch
+datasets
+shap
+pandas
+scikit-learn
+accelerate
+matplotlib
+codecarbon==2.4.2
+lime
