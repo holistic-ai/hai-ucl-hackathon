@@ -48,11 +48,13 @@ This track focuses on creating ethical and trustworthy AI systems for detecting 
 ### Instructions
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/holistic-ai/hai-ucl-hackathon.git
 ```
 
 2. cd into the repository:
+
 ```bash
 cd hai-ucl-hackathon
 ```
