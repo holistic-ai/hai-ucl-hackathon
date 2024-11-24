@@ -263,7 +263,7 @@ To ensure a smooth evaluation process, all teams are required to upload their **
 
 - **How to Submit**:
 Use the following Google Form link:  
-     [Submission Form](https://forms.gle/ZjdHtprTSmcs8h9m7)
+     [Submission Form](https://forms.gle/dS9hWonvMEbvjCwi9)
 
 
 
