@@ -13,6 +13,11 @@ Welcome to the **Holistic AI x UCL AI Society Hackathon 2024**! This repository 
   [Holistic AI Community Slack](https://join.slack.com/t/holisticaicommunity/shared_invite/zt-2jamouyrn-BrMfeoBZIHT8HbLzB3P9QQ)
 
 
+## Project Showcase
+
+### First Ranked Project: [HERMES AI](hackathon-showcases%2FHERMES-AI%2Fslides.pdf)
+- **Team Members**: Seonglae Cho (sungle3737@gmail.com), Gustavo Costa(gustavo@arcos.org.br), Linnea Loserius(loserius127@gmail.com), Yung Hsaun Wu (wu8815@gmail.com) Andrea Lo (lpsandrea02@gmail.com)
+
 ## Track 1: Multi-Objective Optimization for AI Trustworthiness in Tabular Data Classification
 
 ### Goal
