@@ -12,6 +12,8 @@ Welcome to the **Holistic AI x UCL AI Society Hackathon 2024**! This repository 
   For live support from mentors during the event, join our Slack community:  
   [Holistic AI Community Slack](https://join.slack.com/t/holisticaicommunity/shared_invite/zt-2jamouyrn-BrMfeoBZIHT8HbLzB3P9QQ)
 
+- **Access the hackathon tutorials**: [README.md](hackathon-tutorials%2FREADME.md)  
+  Explore the tutorials to learn about the hackathon tasks, datasets, and evaluation metrics.
   
 ## **Project Showcase**
 
