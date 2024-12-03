@@ -150,7 +150,7 @@ This approach demonstrates how FairML techniques can effectively ensure equity, 
 **Team Members**:  
 - **Rishi Kalra**: rishi.kalra.20@ucl.ac.uk  
 - **Avanija Menon**: avanijamenon@gmail.com  
-- **Murtaza Dhanerawala**: [No email provided]  
+- **Murtaza Dhanerawala**: murtazadhan02@gmail.com  
 ---
 
 **Team Members**:  
