@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="logo.png" width="300">
+<img src="hackathon-tutorials/logo.png" width="300">
 <br>
 Holistic AI x UCL AI Society Hackathon 2024
 </h1>
