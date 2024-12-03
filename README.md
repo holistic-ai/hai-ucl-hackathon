@@ -42,8 +42,8 @@ Language models (LLMs), trained on human-produced data, often inherit and propag
 ### 🥈 **2nd Place: 2 Chill Guys**
 
 
-**GitHub Repository**: [2 Chill Guys Implementation](https://github.com/seonglae/2-chill-guys-implementation)  
-**Presentation Slides**: [2 Chill Guys Slides](hackathon-showcases%2F2-Chill-Guys%2Fslides.pdf)  
+**GitHub Repository**: *Will update shortly in the future*  
+**Presentation Slides**: *Will update shortly in the future* 
 **Tracks**: **Track 1** and **Track 2**
 
 #### **Project Description**  
@@ -68,7 +68,7 @@ Language models (LLMs), trained on human-produced data, often inherit and propag
 ### 🥉 **3rd Place: ARM**
 
 **GitHub Repository**: [ARM Implementation](https://github.com/rk68/holistic-hack)  
-**Presentation Slides**: [ARM Slides](hackathon-showcases%2FARM%2Fslides.pdf)  
+**Presentation Slides**: *Will update shortly in the future* 
 **Tracks**: **Track 1: Multi-Objective Optimization for AI Trustworthiness in Tabular Data Classification**  
 **Track 2: Building Trustworthy Models for Stereotype Classification in Text Data**
 
@@ -105,33 +105,64 @@ This approach demonstrates how FairML techniques can effectively ensure equity, 
 
 ---
 
-### 🏅 **4th Place: Robustify**
+### 🏅 **4th Place: Stery Class**
 
-**GitHub Repository**: [Robustify Implementation](https://github.com/example/robustify)  
-**Presentation Slides**: [Robustify Slides](hackathon-showcases%2FRobustify%2Fslides.pdf)  
-**Track**: **Track 1: Multi-Objective Optimization for AI Trustworthiness in Tabular Data Classification**
+**GitHub Repository**: [Stery Class Implementation](https://github.com/alexkstern/stery_class_)  
+**Presentation Slides**: *Will update shortly in the future* 
+**Tracks**: **Track 2**
 
 #### **Project Description**  
-Robustify focuses on designing highly robust and adaptable AI models. By introducing novel adversarial training techniques, the project ensures model reliability across diverse real-world scenarios. The team emphasized **privacy** and **security**, making their solution well-suited for sensitive applications.
+Stery Class focused on developing a sustainable, high-performance classification pipeline with a two-stage approach for stereotype classification:
+
+**Track 2**:  
+1. **Two-Stage Classification Pipeline**:  
+   - **Stage 1**: Utilized a **LightGBM classifier** with **TF-IDF vectorization** and innovative features like cosine similarity between input text and mean sentence embeddings for stereotype classes.  
+   - **Stage 2**: Predicted category (stereotype-related or unrelated) by augmenting Stage 1 features with class probabilities from the first model’s forward pass.
+
+2. **Focus on Sustainability**:  
+   - Prioritized lightweight and efficient inference, ensuring reduced environmental impact without compromising accuracy.
+
+3. **Inspiration from Generative Models**:  
+   - Proposed a generative model framework using **Llama 3 8B with LoRA** for coarse-to-fine stereotype classification and reasoning. While computational constraints prevented real-time implementation, the pipeline design drew inspiration from this generative model structure.
+
+This efficient yet innovative approach highlights the potential for combining lightweight ML models with ideas from generative AI to achieve interpretability, efficiency, and sustainability.
 
 ---
 
 **Team Members**:  
-- **Mark Evans**: mark@example.com  
-- **Priya Gupta**: priya@example.com  
-- **Chen Wei**: chen.wei@example.com  
+- **Alexander Stern**: alexander.stern.20@ucl.ac.uk  
+- **Jose Caceres**: jose.valenzuela.24@ucl.ac.uk  
+---
+
+### 🎖 **5th Place: Holistic Indians**
+
+**GitHub Repository**: *Will update shortly in the future*  
+**Presentation Slides**: *Will update shortly in the future* 
+**Tracks**: **Track 1: Multi-Objective Optimization for AI Trustworthiness in Tabular Data Classification**  
+**Track 2: Building Trustworthy Models for Stereotype Classification in Text Data**
+
+#### **Project Description**  
+Holistic Indians approached both tracks with a focus on mitigating biases, ensuring privacy, and prioritizing sustainability in stereotype classification tasks:
+
+**Track 2**:  
+- **Bias Mitigation**:  
+   - Addressed bias in race stereotypes within text data by generating synthetic data to counter sampling bias.  
+   - Introduced regularization techniques to enhance model generalization and fairness.  
+
+- **Privacy and Sustainability**:  
+   - Incorporated considerations for privacy to protect sensitive data during model training and deployment.  
+   - Focused on environmental sustainability by adopting resource-efficient methods in their implementation.
+
+This solution underscores the importance of fairness, privacy, and environmental responsibility in modern AI systems.
 
 ---
 
-### 🎖 **5th Place: EcoAI**
-
-**GitHub Repository**: [EcoAI Implementation](https://github.com/example/ecoai)  
-**Presentation Slides**: [EcoAI Slides](hackathon-showcases%2FEcoAI%2Fslides.pdf)  
-**Track**: **Track 1: Multi-Objective Optimization for AI Trustworthiness in Tabular Data Classification**
-
-#### **Project Description**  
-EcoAI prioritizes **sustainability** by creating AI models with a low carbon footprint. The project optimized model architecture to balance **performance** and **energy efficiency**, showcasing how AI can achieve impactful results with minimal environmental impact.
-
+**Team Members**:  
+- **Vignesh Balaji**: guruvignesh2001@gmail.com  
+- **Vishal Sharma**: Vishal2510sharma@gmail.com  
+- **Sameeh Razak**: sameehrazak366@gmail.com  
+- **Sayak Mukherjee**: sayak.mukherjee20@imperial.ac.uk  
+- **Arhaan Mohammed Shaikh**: arhaan18june@gmail.com  
 ---
 
 **Team Members**:  
