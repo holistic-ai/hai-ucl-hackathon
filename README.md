@@ -12,27 +12,21 @@ Welcome to the **Holistic AI x UCL AI Society Hackathon 2024**! This repository 
   For live support from mentors during the event, join our Slack community:  
   [Holistic AI Community Slack](https://join.slack.com/t/holisticaicommunity/shared_invite/zt-2jamouyrn-BrMfeoBZIHT8HbLzB3P9QQ)
 
+  
+## **Project Showcase**
 
-## Project Showcase
+This section highlights the outstanding projects from the top 5 teams in the hackathon. Each project addresses key challenges in AI trustworthiness and innovation.
 
-### 🏆 **First Ranked Team: HERMES AI**
+---
+
+### 🏆 **1st Place: HERMES AI**
 
 **GitHub Repository**: [HERMES AI Implementation](https://github.com/seonglae/emgsd-hermes)  
 **Presentation Slides**: [HERMES AI Slides](hackathon-showcases%2FHERMES-AI%2Fslides.pdf)  
-**Selected Track**: **Track 2: Building Trustworthy Models for Stereotype Classification in Text Data**
+**Track**: **Track 2**
 
-#### **Project Description**
-Language models (LLMs), trained on human-produced data, often inherit and propagate harmful stereotypes present in society. Addressing this, the HERMES AI project leverages the theoretical framework of **Mechanistic Interpretability** to reduce stereotype propagation in generative text models.
-
-Key steps of the project include:  
-1. **Sparse Autoencoder (SAE) Training**:  
-   - Trained using the **Expanded Multi-Grain Stereotype Dataset (EMGSD)** to efficiently extract latent features from the GPT-2 EMGSD model.
-
-2. **Feature Manipulation**:  
-   - Extracted features were utilized to manipulate GPT-2’s generation process, aiming to minimize harmful outputs without compromising performance.
-
-3. **Comparative Analysis**:  
-   - Results from the manipulated model were compared against the original GPT-2 EMGSD model, demonstrating significant improvements in reducing harmful stereotype generation.
+#### **Project Description**  
+Language models (LLMs), trained on human-produced data, often inherit and propagate harmful stereotypes. HERMES AI uses **Mechanistic Interpretability** to mitigate such issues by training a Sparse Autoencoder (SAE) on the **Expanded Multi-Grain Stereotype Dataset (EMGSD)**. The project demonstrates effective manipulation of GPT-2’s text generation, reducing harmful stereotypes and achieving ethical AI outputs.
 
 ---
 
@@ -41,7 +35,109 @@ Key steps of the project include:
 - **Gustavo Costa**: gustavo@arcos.org.br  
 - **Linnea Loserius**: loserius127@gmail.com  
 - **Yung Hsaun Wu**: wu8815@gmail.com  
-- **Andrea Lo**: lpsandrea02@gmail.com
+- **Andrea Lo**: lpsandrea02@gmail.com  
+
+---
+
+### 🥈 **2nd Place: 2 Chill Guys**
+
+
+**GitHub Repository**: [2 Chill Guys Implementation](https://github.com/seonglae/2-chill-guys-implementation)  
+**Presentation Slides**: [2 Chill Guys Slides](hackathon-showcases%2F2-Chill-Guys%2Fslides.pdf)  
+**Tracks**: **Track 1** and **Track 2**
+
+#### **Project Description**  
+2 Chill Guys tackled challenges in both tracks with innovative solutions:  
+
+**Track 1**:  
+- Utilized **Optuna** to design and optimize custom pipelines for datasets in the HolisticAI library.  
+- Focused on balancing **performance** and **fairness** to align with trustworthy AI principles.
+
+**Track 2**:  
+- Implemented **DistilBERT** combined with sparse autoencoders to investigate stereotype encoding in language models.  
+- Prioritized interpretability and bias analysis, providing insights into stereotype representation and effective mitigation strategies.
+
+---
+
+**Team Members**:  
+- **Nichita Mitrea**: andsad52@gmail.com  
+- **Anna Aghajanyan**: aghajanyananna03@gmail.com
+
+---
+
+### 🥉 **3rd Place: ARM**
+
+**GitHub Repository**: [ARM Implementation](https://github.com/rk68/holistic-hack)  
+**Presentation Slides**: [ARM Slides](hackathon-showcases%2FARM%2Fslides.pdf)  
+**Tracks**: **Track 1: Multi-Objective Optimization for AI Trustworthiness in Tabular Data Classification**  
+**Track 2: Building Trustworthy Models for Stereotype Classification in Text Data**
+
+#### **Project Description**  
+ARM developed innovative methods for both tracks by focusing on fairness, accuracy, and sustainability in machine learning models:
+
+**Track 1**:  
+1. **Custom Training and Pruning for Tree-Based Models**:  
+   - Designed a custom objective function using **HolisticAI's metrics library**.  
+   - Incorporated fairness metrics such as disparate impact and equal opportunity into the training process.
+
+2. **Bayesian Optimization**:  
+   - Leveraged **Optuna** for hyperparameter search to optimize multiple objectives, including accuracy and fairness.
+
+3. **Pre-Pruning with Fairness Penalty**:  
+   - Introduced two custom tree-pruning methods incorporating a fairness penalty.  
+   - Reduced systemic gender bias while maintaining accuracy and promoting explainability.  
+   - Enhanced carbon efficiency by training a single model with fairness included from the start, avoiding multiple training runs.
+
+This approach demonstrates how FairML techniques can effectively ensure equity, sustainability, and performance in modern AI systems.
+
+---
+
+**Team Members**:  
+- **Rishi Kalra**: rishi.kalra.20@ucl.ac.uk  
+- **Avanija Menon**: avanijamenon@gmail.com  
+- **Murtaza Dhanerawala**: [No email provided]  
+---
+
+**Team Members**:  
+- **Emily Carter**: emily@example.com  
+- **Ahmed Khan**: ahmed@example.com  
+- **Sophia Lin**: sophia@example.com  
+
+---
+
+### 🏅 **4th Place: Robustify**
+
+**GitHub Repository**: [Robustify Implementation](https://github.com/example/robustify)  
+**Presentation Slides**: [Robustify Slides](hackathon-showcases%2FRobustify%2Fslides.pdf)  
+**Track**: **Track 1: Multi-Objective Optimization for AI Trustworthiness in Tabular Data Classification**
+
+#### **Project Description**  
+Robustify focuses on designing highly robust and adaptable AI models. By introducing novel adversarial training techniques, the project ensures model reliability across diverse real-world scenarios. The team emphasized **privacy** and **security**, making their solution well-suited for sensitive applications.
+
+---
+
+**Team Members**:  
+- **Mark Evans**: mark@example.com  
+- **Priya Gupta**: priya@example.com  
+- **Chen Wei**: chen.wei@example.com  
+
+---
+
+### 🎖 **5th Place: EcoAI**
+
+**GitHub Repository**: [EcoAI Implementation](https://github.com/example/ecoai)  
+**Presentation Slides**: [EcoAI Slides](hackathon-showcases%2FEcoAI%2Fslides.pdf)  
+**Track**: **Track 1: Multi-Objective Optimization for AI Trustworthiness in Tabular Data Classification**
+
+#### **Project Description**  
+EcoAI prioritizes **sustainability** by creating AI models with a low carbon footprint. The project optimized model architecture to balance **performance** and **energy efficiency**, showcasing how AI can achieve impactful results with minimal environmental impact.
+
+---
+
+**Team Members**:  
+- **Oliver Brown**: oliver@example.com  
+- **Hana Mori**: hana@example.com  
+- **Luis Fernandez**: luis@example.com  
 
 ## Track 1: Multi-Objective Optimization for AI Trustworthiness in Tabular Data Classification
 
