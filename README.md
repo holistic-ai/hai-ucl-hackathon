@@ -37,7 +37,7 @@ Stay connected and access exclusive resources:
 
 ## **Disclaimer**
 
-This repository is for **educational and research purposes only**. Submissions remain the intellectual property of their respective teams. Holistic AI and UCL AI Society are not liable for any misuse of the resources. For inquiries, contact [info@holisticai.com](mailto:info@holisticai.com).
+This repository is for **educational and research purposes only**. Submissions remain the intellectual property of their respective teams. Holistic AI and UCL AI Society are not liable for any misuse of the resources. For inquiries, contact [hackathon@holisticai.com](mailto:hackathon@holisticai.com).
 
 ---
 
