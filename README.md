@@ -15,7 +15,7 @@ Welcome to the **Holistic AI x UCL AI Society Hackathon 2024**! This repository 
 
 ## Project Showcase
 
-### 🏆 **First Ranked Project: HERMES AI**
+### 🏆 **First Ranked Team: HERMES AI**
 
 **GitHub Repository**: [HERMES AI Implementation](https://github.com/seonglae/emgsd-hermes)  
 **Presentation Slides**: [HERMES AI Slides](hackathon-showcases%2FHERMES-AI%2Fslides.pdf)  
