@@ -8,12 +8,14 @@ Website: [Holistic AI UCL Hackathon](https://hackathon.holisticai.com/)
 
 Welcome to the **Holistic AI x UCL AI Society Hackathon 2024**! This repository contains all the code, datasets, and resources needed to participate. Whether you're a seasoned data scientist or a beginner with no coding experience, we've got you covered.
 
+- **Access the hackathon tutorials**:  
+  Explore the tutorials to learn about the hackathon tasks and get started with the code:
+  [hackathon-tutorials](hackathon-tutorials) 
+
 - **Join the hackathon’s communication channels**:  
   For live support from mentors during the event, join our Slack community:  
   [Holistic AI Community Slack](https://join.slack.com/t/holisticaicommunity/shared_invite/zt-2jamouyrn-BrMfeoBZIHT8HbLzB3P9QQ)
-
-- **Access the hackathon tutorials**: [README.md](hackathon-tutorials%2FREADME.md)  
-  Explore the tutorials to learn about the hackathon tasks, datasets, and evaluation metrics.
+ 
   
 ## **Project Showcase**
 
