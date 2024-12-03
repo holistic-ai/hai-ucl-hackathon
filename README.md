@@ -15,8 +15,33 @@ Welcome to the **Holistic AI x UCL AI Society Hackathon 2024**! This repository 
 
 ## Project Showcase
 
-### First Ranked Project: [HERMES AI](hackathon-showcases%2FHERMES-AI%2Fslides.pdf)
-- **Team Members**: Seonglae Cho (sungle3737@gmail.com), Gustavo Costa(gustavo@arcos.org.br), Linnea Loserius(loserius127@gmail.com), Yung Hsaun Wu (wu8815@gmail.com) Andrea Lo (lpsandrea02@gmail.com)
+### 🏆 **First Ranked Project: HERMES AI**
+
+**GitHub Repository**: [HERMES AI Implementation](https://github.com/seonglae/emgsd-hermes)  
+**Presentation Slides**: [HERMES AI Slides](hackathon-showcases%2FHERMES-AI%2Fslides.pdf)  
+**Selected Track**: **Track 2: Building Trustworthy Models for Stereotype Classification in Text Data**
+
+#### **Project Description**
+Language models (LLMs), trained on human-produced data, often inherit and propagate harmful stereotypes present in society. Addressing this, the HERMES AI project leverages the theoretical framework of **Mechanistic Interpretability** to reduce stereotype propagation in generative text models.
+
+Key steps of the project include:  
+1. **Sparse Autoencoder (SAE) Training**:  
+   - Trained using the **Expanded Multi-Grain Stereotype Dataset (EMGSD)** to efficiently extract latent features from the GPT-2 EMGSD model.
+
+2. **Feature Manipulation**:  
+   - Extracted features were utilized to manipulate GPT-2’s generation process, aiming to minimize harmful outputs without compromising performance.
+
+3. **Comparative Analysis**:  
+   - Results from the manipulated model were compared against the original GPT-2 EMGSD model, demonstrating significant improvements in reducing harmful stereotype generation.
+
+---
+
+**Team Members**:  
+- **Seonglae Cho**: sungle3737@gmail.com  
+- **Gustavo Costa**: gustavo@arcos.org.br  
+- **Linnea Loserius**: loserius127@gmail.com  
+- **Yung Hsaun Wu**: wu8815@gmail.com  
+- **Andrea Lo**: lpsandrea02@gmail.com
 
 ## Track 1: Multi-Objective Optimization for AI Trustworthiness in Tabular Data Classification
 
