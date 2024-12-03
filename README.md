@@ -23,6 +23,7 @@ This section highlights the outstanding projects from the top 5 teams in the hac
 
 **GitHub Repository**: [HERMES AI Implementation](https://github.com/seonglae/emgsd-hermes)  
 **Presentation Slides**: [HERMES AI Slides](hackathon-showcases%2FHERMES-AI%2Fslides.pdf)  
+
 **Track**: **Track 2**
 
 #### **Project Description**  
@@ -44,6 +45,7 @@ Language models (LLMs), trained on human-produced data, often inherit and propag
 
 **GitHub Repository**: *Will update shortly in the future*  
 **Presentation Slides**: *Will update shortly in the future* 
+
 **Tracks**: **Track 1** and **Track 2**
 
 #### **Project Description**  
@@ -69,8 +71,8 @@ Language models (LLMs), trained on human-produced data, often inherit and propag
 
 **GitHub Repository**: [ARM Implementation](https://github.com/rk68/holistic-hack)  
 **Presentation Slides**: *Will update shortly in the future* 
-**Tracks**: **Track 1: Multi-Objective Optimization for AI Trustworthiness in Tabular Data Classification**  
-**Track 2: Building Trustworthy Models for Stereotype Classification in Text Data**
+
+**Tracks**: **Track 1** and **Track 2**
 
 #### **Project Description**  
 ARM developed innovative methods for both tracks by focusing on fairness, accuracy, and sustainability in machine learning models:
@@ -109,6 +111,7 @@ This approach demonstrates how FairML techniques can effectively ensure equity, 
 
 **GitHub Repository**: [Stery Class Implementation](https://github.com/alexkstern/stery_class_)  
 **Presentation Slides**: *Will update shortly in the future* 
+
 **Tracks**: **Track 2**
 
 #### **Project Description**  
@@ -137,9 +140,9 @@ This efficient yet innovative approach highlights the potential for combining li
 ### 🎖 **5th Place: Holistic Indians**
 
 **GitHub Repository**: *Will update shortly in the future*  
-**Presentation Slides**: *Will update shortly in the future* 
-**Tracks**: **Track 1: Multi-Objective Optimization for AI Trustworthiness in Tabular Data Classification**  
-**Track 2: Building Trustworthy Models for Stereotype Classification in Text Data**
+**Presentation Slides**: *Will update shortly in the future*
+
+**Tracks**: **Track 1** and **Track 2**
 
 #### **Project Description**  
 Holistic Indians approached both tracks with a focus on mitigating biases, ensuring privacy, and prioritizing sustainability in stereotype classification tasks:
