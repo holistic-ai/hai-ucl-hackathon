@@ -123,7 +123,7 @@ Language models (LLMs), trained on human-produced data, often inherit and propag
 ### 🥉 **3rd Place: ARM**
 
 **GitHub Repository**: [ARM Implementation](https://github.com/rk68/holistic-hack)  
-**Presentation Slides**: *Will update shortly in the future* 
+**Presentation Slides**: [ARM Slides](hackathon-showcases%2FARM%2Fslides.pdf)
 
 **Tracks**: **Track 1** and **Track 2**
 
