@@ -1,0 +1,28 @@
+[
+  {
+    "category": "Chinese",
+    "domain": "nationalities",
+    "keywords": {
+      "Xin": {
+        "keyword_type": "sub-concepts",
+        "keyword_provider": "manual",
+        "targeted_source": [
+          {
+            "source_tag": "default",
+            "source_type": "unknown",
+            "source_specification": []
+          }
+        ],
+        "scrap_mode": "in_page",
+        "scrap_shared_area": "Yes"
+      }
+    },
+    "category_shared_source": [
+      {
+        "source_tag": "default",
+        "source_type": "local_paths",
+        "source_specification": []
+      }
+    ]
+  }
+]

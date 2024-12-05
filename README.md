@@ -96,8 +96,8 @@ Language models (LLMs), trained on human-produced data, often inherit and propag
 ### 🥈 **2nd Place: 2 Chill Guys**
 
 
-**GitHub Repository**: *Will update shortly in the future*  
-**Presentation Slides**: *Will update shortly in the future* 
+**GitHub Repository**: *[2 Chill Guys Implementation](hackathon-showcases%2F2-Chill-Guys%2FHolistic.zip)*  
+**Presentation Slides**: [2 Chill Guys Slides](hackathon-showcases%2F2-Chill-Guys%2Fslides.pdf) 
 
 **Tracks**: **Track 1** and **Track 2**
 
@@ -150,13 +150,7 @@ This approach demonstrates how FairML techniques can effectively ensure equity, 
 **Team Members**:  
 - **Rishi Kalra**: rishi.kalra.20@ucl.ac.uk  
 - **Avanija Menon**: avanijamenon@gmail.com  
-- **Murtaza Dhanerawala**: murtazadhan02@gmail.com  
----
-
-**Team Members**:  
-- **Emily Carter**: emily@example.com  
-- **Ahmed Khan**: ahmed@example.com  
-- **Sophia Lin**: sophia@example.com  
+- **Murtaza Dhanerawala**: murtazadhan02@gmail.com
 
 ---
 
@@ -193,7 +187,7 @@ This efficient yet innovative approach highlights the potential for combining li
 ### 🎖 **5th Place: Holistic Indians**
 
 **GitHub Repository**: *Will update shortly in the future*  
-**Presentation Slides**: *Will update shortly in the future*
+**Presentation Slides**: [Holistic Indians Slides](hackathon-showcases%2FHolistic-Indians%2Fslides.pdf)
 
 **Tracks**: **Track 1** and **Track 2**
 
