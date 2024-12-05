@@ -157,7 +157,7 @@ This approach demonstrates how FairML techniques can effectively ensure equity, 
 ### 🎖 **4th Place: Stery Class**
 
 **GitHub Repository**: [Stery Class Implementation](https://github.com/alexkstern/stery_class_)  
-**Presentation Slides**: *Will update shortly in the future* 
+**Presentation Slides**: [Stery Class Slides](hackathon-showcases%2FStery-Class%2Fslides.pdf)
 
 **Tracks**: **Track 2**
 
