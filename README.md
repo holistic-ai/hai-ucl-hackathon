@@ -25,39 +25,6 @@ Welcome to the **Holistic AI x UCL AI Society Hackathon 2024**! This repository 
 
 ---
 
-## **Sponsor Highlight: Holistic AI**
-
-Holistic AI is the industry leader in **trustworthy AI solutions**, empowering organizations to build, deploy, and scale AI systems with confidence. Learn more at [Holistic AI Website](https://www.holisticai.com).
-
-### **Join the Holistic AI Community**
-Stay connected and access exclusive resources:  
-[Holistic AI Community Slack](https://join.slack.com/t/holisticaicommunity/shared_invite/zt-2jamouyrn-BrMfeoBZIHT8HbLzB3P9QQ)
-
----
-
-## **Disclaimer**
-
-This repository is for **educational and research purposes only**. Submissions remain the intellectual property of their respective teams. Holistic AI and UCL AI Society are not liable for any misuse of the resources. For inquiries, contact [hackathon@holisticai.com](mailto:hackathon@holisticai.com).
-
----
-
-## **Acknowledgments**
-
-This event is brought to you by:
-- **Holistic AI**
-- **UCL AI Society**
-- **Our Amazing Participants**
-
-Together, we’re pushing the boundaries of responsible AI.
-
----
-
-## **Connect with Us**
-
-Follow us for updates and future events:  
-- [Holistic AI on LinkedIn](https://www.linkedin.com/company/holisticai/)  
-- [UCL AI Society](https://uclaisociety.com/)  
-
 ## **Hackathon Tracks**
 
 ### **Track 1: Multi-Objective Optimization for AI Trustworthiness in Tabular Data**
@@ -215,7 +182,36 @@ This solution underscores the importance of fairness, privacy, and environmental
 - **Arhaan Mohammed Shaikh**: arhaan18june@gmail.com  
 ---
 
-**Team Members**:  
-- **Oliver Brown**: oliver@example.com  
-- **Hana Mori**: hana@example.com  
-- **Luis Fernandez**: luis@example.com
+
+## **Sponsor Highlight: Holistic AI**
+
+Holistic AI is the industry leader in **trustworthy AI solutions**, empowering organizations to build, deploy, and scale AI systems with confidence. Learn more at [Holistic AI Website](https://www.holisticai.com).
+
+### **Join the Holistic AI Community**
+Stay connected and access exclusive resources:  
+[Holistic AI Community Slack](https://join.slack.com/t/holisticaicommunity/shared_invite/zt-2jamouyrn-BrMfeoBZIHT8HbLzB3P9QQ)
+
+---
+
+## **Disclaimer**
+
+This repository is for **educational and research purposes only**. Submissions remain the intellectual property of their respective teams. Holistic AI and UCL AI Society are not liable for any misuse of the resources. For inquiries, contact [hackathon@holisticai.com](mailto:hackathon@holisticai.com).
+
+---
+
+## **Acknowledgments**
+
+This event is brought to you by:
+- **Holistic AI**
+- **UCL AI Society**
+- **Our Amazing Participants**
+
+Together, we’re pushing the boundaries of responsible AI.
+
+---
+
+## **Connect with Us**
+
+Follow us for updates and future events:  
+- [Holistic AI on LinkedIn](https://www.linkedin.com/company/holisticai/)  
+- [UCL AI Society](https://uclaisociety.com/)  
