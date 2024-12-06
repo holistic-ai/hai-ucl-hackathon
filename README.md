@@ -153,7 +153,7 @@ This efficient yet innovative approach highlights the potential for combining li
 
 ### 🎖 **5th Place: Holistic Indians**
 
-**GitHub Repository**: *Will update shortly in the future*  
+**GitHub Repository**: [Holistic Indians Implementation](https://github.com/Arhaans/Holistic-Indians)
 **Presentation Slides**: [Holistic Indians Slides](hackathon-showcases%2FHolistic-Indians%2Fslides.pdf)
 
 **Tracks**: **Track 1** and **Track 2**
