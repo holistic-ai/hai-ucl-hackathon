@@ -12,28 +12,8 @@ Hackathon Website: [Holistic AI UCL Hackathon](https://hackathon.holisticai.com/
 
 Welcome to the **Holistic AI x UCL AI Society Hackathon 2024**! This repository contains all the code, datasets, and resources needed to participate. Whether you're a seasoned data scientist or a beginner, we've got you covered.
 
----
 
-## **Get Started**
-
-- **Access the hackathon tutorials**:  
-  Explore the tutorials to learn about the hackathon tasks and get started: [Hackathon Tutorials](hackathon-tutorials)
-
-- **Join the hackathon’s communication channels**:  
-  Get live support and collaborate with other participants on Slack:  
-  [Holistic AI Community Slack](https://join.slack.com/t/holisticaicommunity/shared_invite/zt-2jamouyrn-BrMfeoBZIHT8HbLzB3P9QQ)
-
----
-
-## **Hackathon Tracks**
-
-### **Track 1: Multi-Objective Optimization for AI Trustworthiness in Tabular Data**
-Participants aim to develop AI systems that optimize multiple objectives simultaneously, including performance, fairness, robustness, privacy, security, explainability, and sustainability, using tabular datasets. The goal is to create trustworthy AI models that are reliable and equitable across diverse applications.
-
-### **Track 2: Building Trustworthy Models for Stereotype Classification in Text Data**
-This track focuses on designing ethical AI systems to detect and mitigate stereotypes in text data. Using the **Expanded Multi-Grain Stereotype Dataset (EMGSD)**, participants build models that classify text into stereotype-related, neutral, or unrelated categories while addressing fairness, privacy, and interpretability challenges.
-
-## **Project Showcase**
+## **Winner & Project Showcase**
 
 This section highlights the outstanding projects from the top 5 teams in the hackathon. Each project addresses key challenges in AI trustworthiness and innovation.
 
@@ -42,6 +22,7 @@ This section highlights the outstanding projects from the top 5 teams in the hac
 ### 🏆 **1st Place: HERMES AI**
 
 **GitHub Repository**: [HERMES AI Implementation](https://github.com/seonglae/emgsd-hermes)  
+
 **Presentation Slides**: [HERMES AI Slides](hackathon-showcases%2FHERMES-AI%2Fslides.pdf)  
 
 **Track**: **Track 2**
@@ -90,6 +71,7 @@ Language models (LLMs), trained on human-produced data, often inherit and propag
 ### 🥉 **3rd Place: ARM**
 
 **GitHub Repository**: [ARM Implementation](https://github.com/rk68/holistic-hack)  
+
 **Presentation Slides**: [ARM Slides](hackathon-showcases%2FARM%2Fslides.pdf)
 
 **Tracks**: **Track 1** and **Track 2**
@@ -124,6 +106,7 @@ This approach demonstrates how FairML techniques can effectively ensure equity, 
 ### 🎖 **4th Place: Stery Class**
 
 **GitHub Repository**: [Stery Class Implementation](https://github.com/alexkstern/stery_class_)  
+
 **Presentation Slides**: [Stery Class Slides](hackathon-showcases%2FStery-Class%2Fslides.pdf)
 
 **Tracks**: **Track 2**
@@ -154,6 +137,7 @@ This efficient yet innovative approach highlights the potential for combining li
 ### 🎖 **5th Place: Holistic Indians**
 
 **GitHub Repository**: [Holistic Indians Implementation](https://github.com/Arhaans/Holistic-Indians)
+
 **Presentation Slides**: [Holistic Indians Slides](hackathon-showcases%2FHolistic-Indians%2Fslides.pdf)
 
 **Tracks**: **Track 1** and **Track 2**
@@ -183,13 +167,31 @@ This solution underscores the importance of fairness, privacy, and environmental
 ---
 
 
+## **Get Started**
+
+- **Access the hackathon tutorials**:  
+  Explore the tutorials to learn about the hackathon tasks and get started: [Hackathon Tutorials](hackathon-tutorials)
+
+- **Join the hackathon’s communication channels**:  
+  Get live support and collaborate with other participants on Slack:  
+  [Holistic AI Community Slack](https://join.slack.com/t/holisticaicommunity/shared_invite/zt-2jamouyrn-BrMfeoBZIHT8HbLzB3P9QQ)
+
+---
+
+## **Hackathon Tracks**
+
+### **Track 1: Multi-Objective Optimization for AI Trustworthiness in Tabular Data**
+Participants aim to develop AI systems that optimize multiple objectives simultaneously, including performance, fairness, robustness, privacy, security, explainability, and sustainability, using tabular datasets. The goal is to create trustworthy AI models that are reliable and equitable across diverse applications.
+
+### **Track 2: Building Trustworthy Models for Stereotype Classification in Text Data**
+This track focuses on designing ethical AI systems to detect and mitigate stereotypes in text data. Using the **Expanded Multi-Grain Stereotype Dataset (EMGSD)**, participants build models that classify text into stereotype-related, neutral, or unrelated categories while addressing fairness, privacy, and interpretability challenges.
+
+---
+
 ## **Sponsor Highlight: Holistic AI**
 
 Holistic AI is the industry leader in **trustworthy AI solutions**, empowering organizations to build, deploy, and scale AI systems with confidence. Learn more at [Holistic AI Website](https://www.holisticai.com).
 
-### **Join the Holistic AI Community**
-Stay connected and access exclusive resources:  
-[Holistic AI Community Slack](https://join.slack.com/t/holisticaicommunity/shared_invite/zt-2jamouyrn-BrMfeoBZIHT8HbLzB3P9QQ)
 
 ---
 
